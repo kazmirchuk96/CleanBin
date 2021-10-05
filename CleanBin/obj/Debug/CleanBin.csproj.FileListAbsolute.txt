@@ -1,0 +1,8 @@
+C:\Users\ikazm\source\repos\CleanBin\CleanBin\bin\Debug\CleanBin.exe.config
+C:\Users\ikazm\source\repos\CleanBin\CleanBin\bin\Debug\CleanBin.exe
+C:\Users\ikazm\source\repos\CleanBin\CleanBin\bin\Debug\CleanBin.pdb
+C:\Users\ikazm\source\repos\CleanBin\CleanBin\obj\Debug\CleanBin.csproj.CoreCompileInputs.cache
+C:\Users\ikazm\source\repos\CleanBin\CleanBin\obj\Debug\CleanBin.exe
+C:\Users\ikazm\source\repos\CleanBin\CleanBin\obj\Debug\CleanBin.pdb
+C:\Users\ikazm\source\repos\CleanBin\CleanBin\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\ikazm\source\repos\CleanBin\CleanBin\obj\Debug\CleanBin.csproj.ResolveComReference.cache
